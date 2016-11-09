@@ -5,6 +5,7 @@
 ### Features
 
 - [#7554](https://github.com/influxdata/influxdb/pull/7554): update latest dependencies with Godeps.
+- [#7601](https://github.com/influxdata/influxdb/issues/7601): Prune data in meta store for deleted shards.
 
 ### Bugfixes
 
