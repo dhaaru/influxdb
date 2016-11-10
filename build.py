@@ -83,6 +83,7 @@ targets = {
     'influx' : './cmd/influx',
     'influxd' : './cmd/influxd',
     'influx_inspect' : './cmd/influx_inspect',
+    'influx-stress' : './cmd/influx-stress',
     'influx_tsm' : './cmd/influx_tsm',
 }
 
